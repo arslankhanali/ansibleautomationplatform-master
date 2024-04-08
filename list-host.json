@@ -1,0 +1,65 @@
+{
+    "url": "/api/v2/inventories/3/",
+    "hosts": [
+        {
+            "name": "node3",
+            "enabled": true,
+            "instance_id": "",
+            "description": "",
+            "variables": "ansible_connection: local",
+            "id": 16,
+            "url": "/api/v2/hosts/16/",
+            "inventory": "/api/v2/inventories/3/"
+        },
+        {
+            "name": "node1",
+            "enabled": true,
+            "instance_id": "",
+            "description": "",
+            "variables": "",
+            "id": 17,
+            "url": "/api/v2/hosts/17/",
+            "inventory": "/api/v2/inventories/3/"
+        },
+        {
+            "name": "node2",
+            "enabled": true,
+            "instance_id": "",
+            "description": "",
+            "variables": "",
+            "id": 18,
+            "url": "/api/v2/hosts/18/",
+            "inventory": "/api/v2/inventories/3/"
+        },
+        {
+            "name": "node4",
+            "enabled": true,
+            "instance_id": "",
+            "description": "",
+            "variables": "",
+            "id": 19,
+            "url": "/api/v2/hosts/19/",
+            "inventory": "/api/v2/inventories/3/"
+        },
+        {
+            "name": "node5",
+            "enabled": true,
+            "instance_id": "",
+            "description": "",
+            "variables": "",
+            "id": 20,
+            "url": "/api/v2/hosts/20/",
+            "inventory": "/api/v2/inventories/3/"
+        },
+        {
+            "name": "node6",
+            "enabled": true,
+            "instance_id": "",
+            "description": "",
+            "variables": "",
+            "id": 21,
+            "url": "/api/v2/hosts/21/",
+            "inventory": "/api/v2/inventories/3/"
+        }
+    ]
+}

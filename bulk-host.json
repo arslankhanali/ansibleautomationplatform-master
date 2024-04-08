@@ -1,0 +1,27 @@
+{
+    "inventory": 1,
+    "hosts": [
+        {
+            "name": "node3",
+            "variables": "ansible_connection: local"
+        },
+        {
+            "name": "node1"
+        },
+        {
+            "name": "node2"
+        },
+        {
+            "name": "node4",
+            "enabled": false
+        },
+        {
+            "name": "node5",
+            "enabled": false
+        },
+        {
+            "name": "node6",
+            "enabled": false
+        }
+    ]
+}
